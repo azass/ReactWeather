@@ -4,6 +4,7 @@ var Examples = (props) => {
   return (
     <div>
       <h3>Examples Component</h3>
+      <p>Welcom to examples page!</p>
     </div>
   )
 };
